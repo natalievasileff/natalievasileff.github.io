@@ -1,0 +1,16 @@
+h1 {
+    color: pink;
+    font-family: monospace;
+}
+
+.container {
+    margin: 100px;
+    padding: 15px;
+}
+
+p {
+  color: pink;
+}
+
+body
+{background-image: url("https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX9625240.jpg")}
